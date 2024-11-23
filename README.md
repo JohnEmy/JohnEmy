@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnEmy
-- 👀 I’m interested in game dev and data science
+- 👀 I’m interested in 
 - 🌱 I’m currently learning oop, data structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
